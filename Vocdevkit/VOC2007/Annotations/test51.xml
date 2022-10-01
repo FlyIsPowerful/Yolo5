@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasets</folder>
+	<filename>test51.jpg</filename>
+	<path>E:\yolov5-master\img_whole\datasets\test51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>237</ymin>
+			<xmax>350</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

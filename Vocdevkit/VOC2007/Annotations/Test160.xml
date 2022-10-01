@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Test160.jpg</filename>
+	<path>E:\yolov5-master\img_whole\datasets\images\train\Test160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>1725</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1141</xmin>
+			<ymin>978</ymin>
+			<xmax>1491</xmax>
+			<ymax>1095</ymax>
+		</bndbox>
+	</object>
+</annotation>
